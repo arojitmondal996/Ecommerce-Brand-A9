@@ -1,0 +1,207 @@
+[
+    {
+      "_id": "a1b2c3d4",
+      "brand_name": "GadgetPro",
+      "rating": 4.5,
+      "description": "Innovative gadgets and electronics for tech enthusiasts.",
+      "brand_logo": "https://i.ibb.co.com/Stz8bT0/32178644-7920490.jpg",
+      "coupons":[
+        {
+          "code": "GP10",
+          "description": "10% off on all orders over $100.",
+          "expiry_date": "2024-12-31"
+        }
+      ],
+      "shop_Link": "https://bikroy.com/en",
+      "category": "Electronics",
+      "isSaleOn": true
+    },
+    {
+      "_id": "e5f6g7h8",
+      "brand_name": "FashionVerse",
+      "rating": 4.3,
+      "description": "Stylish and affordable clothing for every occasion.",
+      "brand_logo": "https://i.ibb.co.com/0KRVfw2/32178650-7916573.jpg",
+      "coupons":[
+        {
+          "code": "FV20",
+          "description": "20% off on your first purchase.",
+          "expiry_date": "2024-09-15"
+        }
+      ],
+      "shop_Link": "https://www.apple.com/",
+      "category": "Fashion",
+      "isSaleOn": false
+    },
+    {
+      "_id": "i9j0k1l2",
+      "brand_name": "HomeHaven",
+      "rating": 4.7,
+      "description": "Premium home decor and furniture collections.",
+      "brand_logo": "https://i.ibb.co.com/7z2j3kn/33028698-7941375.jpg",
+      "coupons":[
+        {
+          "code": "HH15",
+          "description": "15% off on selected furniture.",
+          "expiry_date": "2024-10-20"
+        }
+      ],
+      "shop_Link": "https://www.daraz.com.bd",
+      "category": "Home",
+      "isSaleOn": true
+    },
+    {
+      "_id": "m3n4o5p6",
+      "brand_name": "BookNest",
+      "rating": 4.8,
+      "description": "Your favorite online bookstore with amazing deals.",
+      "brand_logo": "https://i.ibb.co.com/Bjs6TZ0/11637212-4776045.jpg",
+      "coupons":[
+        {
+          "code": "BN5OFF",
+          "description": "Save $5 on orders over $25.",
+          "expiry_date": "2024-08-30"
+        }
+      ],
+      "shop_Link": "https://www.foodpanda.com.bd/",
+      "category": "Books",
+      "isSaleOn": true
+    },
+    {
+      "_id": "q7r8s9t0",
+      "brand_name": "SportsEdge",
+      "rating": 4.4,
+      "description": "Gear up with high-quality sports equipment.",
+      "brand_logo": "https://i.ibb.co.com/sVKMjYd/daraz.png",
+      "coupons":[
+        {
+          "code": "SE20",
+          "description": "20% off on all sports gear.",
+          "expiry_date": "2024-12-25"
+        }
+      ],
+      "shop_Link": "https://chaldal.com/?srsltid=AfmBOoqzE--RGwEbcgtPzeRpB1liVW_NFVITI_v1NLhbDqgOwaj3konv",
+      "category": "Sports",
+      "isSaleOn": false
+    },
+    {
+      "_id": "u1v2w3x4",
+      "brand_name": "BeautyVault",
+      "rating": 4.6,
+      "description": "Luxury beauty and skincare products at great prices.",
+      "brand_logo": "https://i.ibb.co.com/2vfvzkX/project3.jpg",
+      "coupons":[
+        {
+          "code": "BV15",
+          "description": "15% off on all beauty products.",
+          "expiry_date": "2024-11-30"
+        }
+      ],
+      "shop_Link": "https://www.ebay.com/",
+      "category": "Beauty",
+      "isSaleOn": true
+    },
+    {
+      "_id": "y5z6a7b8",
+      "brand_name": "FreshMart",
+      "rating": 4.3,
+      "description": "Fresh groceries delivered to your doorstep.",
+      "brand_logo": "https://i.ibb.co.com/0QjjQSP/project4.jpg",
+      "coupons":[
+        {
+          "code": "FMFREE",
+          "description": "Free delivery on orders over $50.",
+          "expiry_date": "2024-11-01"
+        }
+      ],
+      "shop_Link": "https://www.alibaba.com/",
+      "category": "Grocery",
+      "isSaleOn": true
+    },
+    {
+      "_id": "c9d0e1f2",
+      "brand_name": "TravelWise",
+      "rating": 4.9,
+      "description": "Exclusive travel deals and packages.",
+      "brand_logo": "https://i.ibb.co.com/D1nDwh3/project5.jpg",
+      "coupons":[
+        {
+          "code": "TW50",
+          "description": "Save 50% on select travel packages.",
+          "expiry_date": "2025-01-01"
+        }
+      ],
+      "shop_Link": "https://www.shopify.com/",
+      "category": "Travel",
+      "isSaleOn": false
+    },
+    {
+      "_id": "g3h4i5j6",
+      "brand_name": "PetPals",
+      "rating": 4.2,
+      "description": "Everything you need for your beloved pets.",
+      "brand_logo": "https://i.ibb.co.com/5YJRzNC/project6.jpg",
+      "coupons":[
+        {
+          "code": "PP10",
+          "description": "10% off on pet supplies.",
+          "expiry_date": "2024-09-30"
+        }
+      ],
+      "shop_Link": "https://www.walmart.com/",
+      "category": "Pets",
+      "isSaleOn": true
+    },
+    {
+      "_id": "k7l8m9n0",
+      "brand_name": "AutoDrive",
+      "rating": 4.5,
+      "description": "Top-notch car parts and accessories.",
+      "brand_logo": "https://i.ibb.co.com/jHtrFJF/project7.jpg",
+      "coupons":[
+        {
+          "code": "AD15",
+          "description": "15% off on car maintenance tools.",
+          "expiry_date": "2024-08-20"
+        }
+      ],
+      "shop_Link": "https://www.allbirds.com/?srsltid=AfmBOooYdhtyjKVDll-0tH9_tX-DVEUMu0l8qSoWr3E7niqn8oFomlfE",
+      "category": "Automotive",
+      "isSaleOn": false
+    },
+    {
+      "_id": "o1p2q3r4",
+      "brand_name": "HealthHaven",
+      "rating": 4.6,
+      "description": "Your partner in health and wellness.",
+      "brand_logo": "https://i.ibb.co.com/X4gDtLq/project8.jpg",
+      "coupons":[
+        {
+          "code": "HH10",
+          "description": "10% off on health supplements.",
+          "expiry_date": "2024-11-30"
+        }
+      ],
+      "shop_Link": "https://www.bestbuy.com/",
+      "category": "Health",
+      "isSaleOn": true
+    },
+    {
+      "_id": "s5t6u7v8",
+      "brand_name": "KiddoWorld",
+      "rating": 4.7,
+      "description": "Fun and educational toys for kids.",
+      "brand_logo": "https://i.ibb.co.com/PNnCFDR/alibaba.png",
+      "coupons": [
+        {
+          "code": "KW20",
+          "description": "20% off on selected toys.",
+          "expiry_date": "2024-12-15"
+        }
+      ],
+      "shop_Link": "https://www.flipkart.com/",
+      "category": "Kids",
+      "isSaleOn": true
+    }
+  ]
+  
